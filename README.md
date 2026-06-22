@@ -47,3 +47,6 @@ If you'd like to support my work, please check out the [DONATE.md](DONATE.md) fi
 
 ## Development
 For build instructions and deployment details, see [DEVELOPMENT.md](DEVELOPMENT.md).
+---
+## Créditos
+Esta es una traducción al español creada por NanospeedGamer basada en el software original desarrollado por [itsPLK](https://github.com/itsPLK/ps5-payload-manager). ¡Todo el crédito del código base va para él!
